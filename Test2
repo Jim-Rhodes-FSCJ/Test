@@ -4,3 +4,5 @@ for e in range(5):
 average = e/5
 
 print("The average age of the employees is " + str(average))
+
+print("But this doesn't work!
