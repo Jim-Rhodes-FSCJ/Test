@@ -1,2 +1,6 @@
 for e in range(5): 
    age = input("Please enter the salary of Employee " + str(e) + " ")
+
+average = e/5
+
+print("The average age of the employees is " + str(average))
